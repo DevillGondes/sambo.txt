@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^pg-slotsuck - [F]
+RewriteRule ^pg-slotsuck/index.html$ - [F]
+RewriteRule ^pg-slotsuck/index.htm$ - [F]
+RewriteRule ^pg-slotsuck/index.php$ - [F]
